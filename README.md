@@ -9,10 +9,6 @@ This app helps users calculate monthly EMIs based on loan amount, interest rate,
 
 💸 Calculates EMI, total interest, and total payment
 
-📊 Optionally show an EMI pie chart (if added)
-
-🌙 Light and dark mode toggle (if added)
-
 🔄 Instant calculation on button click
 
 🛠️ Technologies Used
