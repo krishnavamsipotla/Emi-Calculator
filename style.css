@@ -1,0 +1,67 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: rgb(238, 226, 116);
+    /* background-size: contain; */
+    /* background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoxy2GXm2qXU1X2jyozGBMwX8Jg-lQ7yFCMw&s'); */
+    /* background: url('https://www.google.com/imgres?q=calculator%20background%20images&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fgradient-back-school-pattern-design_23-2149479817.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Fcalculator-background&docid=UF8YnKL1igRhMM&tbnid=E-UdxqH9aUbHmM&vet=12ahUKEwjxjcDy2aWNAxW1ha8BHUgsGYoQM3oECC4QAA..i&w=626&h=626&hcb=2&ved=2ahUKEwjxjcDy2aWNAxW1ha8BHUgsGYoQM3oECC4QAA'); */
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: aquamarine;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 400px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: 600;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    background-color: #007bff;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.results {
+    margin-top: 20px;
+}
+
+/* .results p {
+    font-size: 16px;
+    margin: 8px 0;
+} */
