@@ -43,7 +43,7 @@ N = Loan tenure in months
 🧪 How to Run the Project:
 
 Clone or download the project:
-git clone https://github.com/yourusername/emi-calculator.git
+git clone https://github.com/krishnavamsipotla/emi-calculator.git
 Open index.html in any browser.
 
 Enter your values and click Calculate.
